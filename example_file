@@ -1,4 +1,4 @@
-int main(){
+ 1. int main(){
  2.   int a = 100;
  3.   int b = 0;
  4.   bool flag = getFlag();
